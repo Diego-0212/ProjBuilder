@@ -8,6 +8,7 @@ Complementando o projeto GOF desenvolvido anterior (seleção de pessoas), criar
 O programa deve seguir o padrão adotado pela lanchonete SubWay onde o cliente monta seu pedido.
 Utilize para consulta os seguintes links:
 https://pt.wikihow.com/Pedir-um-Lanche-no-Subway
+
 https://www.saboravida.com.br/gastronomia/2020/12/13/cardapio-subway/
 
 Obrigatoriamente deve conter (mínimo, caso queira por mais opções fiquem a vontade):
